@@ -1,4 +1,4 @@
-Telegram Bot to Connect Strangers
+#Telegram Bot to Connect Strangers
 
 ## How to Run
 1. First set your telegram bot token ad environment varible `TELEGRAM_BOT_TOKEN`:
